@@ -70,7 +70,8 @@
             android:layout_height="wrap_content"
             android:text="Buscar en la web"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -87,7 +88,8 @@
             android:layout_height="wrap_content"
             android:text="Musica"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <Button
             android:id="@+id/btn6"
@@ -95,7 +97,8 @@
             android:layout_height="wrap_content"
             android:text="Intent_6"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <Button
             android:id="@+id/btn7"
@@ -103,7 +106,8 @@
             android:layout_height="wrap_content"
             android:text="Intent_7"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <Button
             android:id="@+id/btn8"
