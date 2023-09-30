@@ -40,31 +40,35 @@
             android:id="@+id/btn1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_1"
+            android:text="Alarma"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"
+            />
 
         <Button
-            android:id="@+id/btn2"
+            android:id="@+id/b2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_2"
+            android:text="Mapa"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <Button
             android:id="@+id/btn3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_3"
+            android:text="Llamadas"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:layout_marginTop="5dp"
+            android:onClick="onClick"/>
 
         <Button
             android:id="@+id/btn4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_4"
+            android:text="Buscar en la web"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"/>
 
@@ -81,7 +85,7 @@
             android:id="@+id/btn5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_5"
+            android:text="Musica"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"/>
 
