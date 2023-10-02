@@ -1,7 +1,6 @@
 package com.example.ejemplo1event;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.SearchManager;
 import android.content.Intent;
 import android.net.Uri;
