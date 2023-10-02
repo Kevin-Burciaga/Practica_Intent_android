@@ -50,7 +50,7 @@
             android:id="@+id/b2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Mapa"
+            android:text="Tomar foto"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
             android:onClick="onClick"/>
@@ -59,7 +59,7 @@
             android:id="@+id/btn3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Llamadas"
+            android:text="Llamada"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
             android:onClick="onClick"/>
@@ -95,7 +95,7 @@
             android:id="@+id/btn6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_6"
+            android:text="Abrir navegador"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
             android:onClick="onClick"/>
@@ -104,7 +104,7 @@
             android:id="@+id/btn7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_7"
+            android:text="Mapa"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"
             android:onClick="onClick"/>
@@ -113,7 +113,7 @@
             android:id="@+id/btn8"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Intent_8"
+            android:text="Regresar"
             android:layout_gravity="center"
             android:layout_marginTop="5dp"/>
 
